@@ -1,0 +1,23 @@
+Commands to run applications:
+	Tomcat: sudo service tomcat start
+	MongoDB: run Mongodb compass icon placed on desktop or type mongo in terminal
+	Docker: sudo service docker start
+	MySQL: Open mysql workbench using icon placed in desktop
+
+Commands to check version of applications:
+	Angular: ng v
+	Node: node -v
+	npm: npm -v
+	java: java --version 
+	Docker: docker -v
+	Maven: mvn -v
+
+Command to check/start mongodb:
+	sudo service mongod status
+	sudo service mongod start
+
+Command to check/start mysql:
+	sudo service mysql status
+	sudo service mysql start
+
+password for root user in mysql: root123
